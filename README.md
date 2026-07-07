@@ -58,6 +58,9 @@ I enjoy building software that solves real-world problems, from AI-powered web a
 Git • Docker • PostgreSQL • Redis • Playwright • GitLab CI • Railway • Netlify • Unity • Proxmox
 
 ---
+## 🐍 Contributions
+
+![snake](https://raw.githubusercontent.com/LukinoKubis/LukinoKubis/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Stats
 
