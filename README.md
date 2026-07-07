@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" alt="Banner" width="100%">
+</p>
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Lukáš Kubis
 
 ### Computer Science & Engineering Student @ TU Delft
