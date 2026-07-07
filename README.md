@@ -68,6 +68,9 @@ Git • Docker • PostgreSQL • Redis • Playwright • GitLab CI • Railway
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukinoKubis&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+</p>
+<p align="center">
+
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukinoKubis&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
