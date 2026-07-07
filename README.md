@@ -66,9 +66,9 @@ Git • Docker • PostgreSQL • Redis • Playwright • GitLab CI • Railway
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LukinoKubis&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LukinoKubis&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukinoKubis&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LukinoKubis&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -82,6 +82,3 @@ Git • Docker • PostgreSQL • Redis • Playwright • GitLab CI • Railway
 
 ![](https://komarev.com/ghpvc/?username=LukinoKubis&style=for-the-badge)
 
----
-
-> *"Build things that make people's lives easier."*
